@@ -1,0 +1,33 @@
+
+body{
+
+background-color: black;
+
+}	
+h1,h2{
+
+	text-align: center;
+}
+p,h1,h2{
+
+color: white;
+
+}
+.menu{
+
+background-color: black;
+color: white;
+}
+
+img{
+
+border-style: solid;
+
+}
+
+img{
+
+max-width:100%;
+height:auto;
+
+}
